@@ -7,7 +7,7 @@ Inspired by Cynthia Ugwu’s legendary portfolio but redesigned for *2025* — f
 ---
 
 ## 🚀 Live Demo
-🔗 Coming Soon...
+🔗 https://modernmotion-by-janhvi.netlify.app/
 
 ---
 
